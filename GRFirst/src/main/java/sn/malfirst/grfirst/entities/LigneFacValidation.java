@@ -1,4 +1,4 @@
-package sn.malfirst.gestionReglement.entities;
+package sn.malfirst.grfirst.entities;
 
 public class LigneFacValidation {
 
